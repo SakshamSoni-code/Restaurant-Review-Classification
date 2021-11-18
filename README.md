@@ -1,7 +1,7 @@
 # Restaurant-Review-Classification
 A NLP model to classify review of a restaurant!
 
-Steps invloved:
+Steps invloved
 1- Importing the libraries
 2- Importing the dataset
 3- Cleaning the texts
